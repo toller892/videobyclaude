@@ -38,3 +38,18 @@ each is introduced.
   stylized illustration, not a photorealistic lip-synced presenter
 - All dashboard figures are placeholders
 - Duration: 60.0s · 1920x1080 · 30fps
+
+## beeswax-hive-avatar.mp4
+
+"HIVE" — a creative re-imagining of the avatar explainer (same Chinese script and
+narration as `beeswax-avatar-zh.mp4`). A holographic presenter is scanned into existence
+above a honeycomb projector and walks the viewer through three floating holo-panels:
+
+- **eCPM:** bid comets converge on a CTV audience; the price climbs as demand heats up
+- **填充率:** 100 honeycomb cells (one per bid request) fill with honey to 87%, then
+  drain as bidders leave, and a diagnostic scan flags targeting / deal issues
+- **日消耗:** too-slow vs. burn-out vs. on-pace spend curves racing along a flight timeline
+- Synthesized ambient bed + SFX (whooshes, honey ticks, burn-out rumble, chimes)
+- Narration: Microsoft Edge TTS `zh-CN-YunyangNeural`; stylized avatar, mouth driven by loudness
+- All figures and DSP names are placeholders
+- Duration: 60.0s · 1920x1080 · 30fps
