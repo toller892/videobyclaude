@@ -26,3 +26,15 @@ waterfall: 什么是 Beeswax → 竞价请求 → 竞价瀑布 → 结果. Rebui
 with Inter + Noto Sans CJK SC. DSP names and all figures are placeholders.
 
 - Duration: 60.0s · 1920x1080 · 30fps
+
+## beeswax-avatar-zh.mp4
+
+A 60-second Chinese explainer hosted by an illustrated presenter avatar in front of a
+mock CTV dashboard, covering eCPM, 填充率 and 日消耗. Metric panels slide in and glow as
+each is introduced.
+
+- Narration: Microsoft Edge TTS, `zh-CN-YunyangNeural` (male, news style)
+- Mouth movement is driven per frame by the narration's loudness; the avatar is a
+  stylized illustration, not a photorealistic lip-synced presenter
+- All dashboard figures are placeholders
+- Duration: 60.0s · 1920x1080 · 30fps
