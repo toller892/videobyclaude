@@ -53,3 +53,24 @@ above a honeycomb projector and walks the viewer through three floating holo-pan
 - Narration: Microsoft Edge TTS `zh-CN-YunyangNeural`; stylized avatar, mouth driven by loudness
 - All figures and DSP names are placeholders
 - Duration: 60.0s · 1920x1080 · 30fps
+
+## beeswax-hive3d.mp4
+
+The full-3D cut: a real-time WebGL film (Remotion + three.js, rendered in headless Chrome).
+
+- **Presenter:** a procedurally modelled LIDAR-scan bust — ~70,000 glowing points on 154
+  contour rings, generated from a signed-distance-field head (brow, eye sockets, nose, lips,
+  jaw, ears). Irises glow, eyes blink, and the jaw opens with the narration's loudness.
+  It explodes into particles on every cut and re-forms at its next mark.
+- **Cold open:** fly-through of a hexagonal light tunnel into a particle burst that
+  assembles the head.
+- **eCPM:** ~8,000 bid particles spiral into a floating CTV screen; a demand ring fills
+  and the price climbs as demand surges.
+- **填充率:** a 3D honeycomb of 100 hex prisms (one per bid request) fills with honey to
+  87%, drains to 64% as DSP beams withdraw, and a red scan wall flags the causes.
+- **日消耗:** light-comets race along a flight-timeline runway; the overspend comet
+  shatters on the budget ceiling while a giant ghost of the presenter looks on.
+- **Score:** synthesized trailer-style sound design — heartbeat riser, sub-drop impacts on
+  every cut, braams, honey plucks, burn-out shatter — ducked under the narration.
+- Narration: Microsoft Edge TTS `zh-CN-YunyangNeural`. All figures and DSP names are placeholders.
+- Duration: 60.0s · 1920x1080 · 30fps · stereo 48 kHz
