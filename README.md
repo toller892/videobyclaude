@@ -18,3 +18,11 @@ waterfall works: bid request → multiple DSP bidders → highest bid wins → a
 - Rendered with [Remotion](https://www.remotion.dev/), narration via Google TTS
 - DSP names ("DSP 1/2/3") are generic placeholders, not real company names
 - Duration: ~62s · 1920x1080 · 30fps
+
+## beeswax-waterfall-v2.mp4
+
+A 60-second Chinese-subtitled motion graphic (no narration) of the CTV bidding
+waterfall: 什么是 Beeswax → 竞价请求 → 竞价瀑布 → 结果. Rebuilt from scratch in Remotion
+with Inter + Noto Sans CJK SC. DSP names and all figures are placeholders.
+
+- Duration: 60.0s · 1920x1080 · 30fps
